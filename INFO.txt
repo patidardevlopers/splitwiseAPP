@@ -1,0 +1,1 @@
+This component has basic functionaly of the splitwise app. which we manage the expense within a group or indivisuals.
